@@ -28,10 +28,10 @@ https://community.altair.com/discussion/43716/survival-analysis-in-rapid-miner?t
 /*  2017 has the most days to infection                                                                                   */
 /*  2014 has the least days to infection                                                                                  */
 /*  2015 and 2016 are close in magnitute, days to infection (large sample size shows sinificance,CI do not overlap)       */
-/*                                                                                                                        */
+/*  Only a 5 day difference                                                                                               */
 /*                                                                                                                        */
 /*  Patients in 2017 were 32% less likely to experience infection at any given point in time compared to 2014 patients.   */
-/*  Only a 5 day difference                                                                                               */
+/*                                                                                                                        */
 /*                                                                                                                        */
 /*                           Days to Infection by Year                                                                    */
 /*                                   DAYS                                                                                 */
