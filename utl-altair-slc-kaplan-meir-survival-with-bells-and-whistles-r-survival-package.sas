@@ -4,6 +4,9 @@
 
 Altair slc kaplan meir survival with bells and whistles r survival package
 
+ graph
+https://github.com/rogerjdeangelis/utl-altair-slc-kaplan-meir-survival-with-bells-and-whistles-r-survival-package/blob/main/kaplan_meier_style.pdf
+
 Too long to post on a list, see github
 https://github.com/rogerjdeangelis/utl-altair-slc-kaplan-meir-survival-with-bells-and-whistles-r-survival-package
 
